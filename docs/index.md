@@ -2,7 +2,7 @@
 
 ## Ideia
 
-(*Faça uma breve descrição do problema que seu projeto irá resolver.*)
+Criaremos um BOT do twitter, onde assim que o usuário perguntar a temperatura que está na sua casa, o Bot informará a temperatura de acordo com a captação do sensor.
 
 ## Diagrama de implantação
 
