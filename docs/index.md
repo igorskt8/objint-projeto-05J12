@@ -8,7 +8,7 @@ Criaremos um BOT do twitter, onde assim que o usuário perguntar a temperatura q
 
 Faça um diagrama de implantação. Exemplo:
 
-![](implantacao.png)
+![](implantacão.png)
 
 
 ## Montagem do dispositivo
